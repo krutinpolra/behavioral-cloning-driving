@@ -18,7 +18,7 @@ venv/
 *.ipynb
 
 # Training images (too large for git - share separately)
-IMG/
+
 
 # Assignment question (not student work)
 Final_Project.pdf

@@ -20,9 +20,6 @@ venv/
 # Training images (too large for git - share separately)
 
 
-# Assignment question (not student work)
-Final_Project.pdf
-
 # Simulator binary
 simulator-windows-64/
 

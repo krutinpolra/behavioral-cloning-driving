@@ -1,7 +1,9 @@
 # Self-Driving Car Simulation Using CNN
 
 **CVI620 Final Project — Winter 2026**  
-**Instructor:** Ellie Azizi
+**Instructor:** Ellie Azizi  
+**Group:** 15  
+**Members:** Ikechukwu Charles Okorji, Krutin Bharatbhai Polra
 
 A behavioral cloning project that trains a convolutional neural network (based on the NVIDIA architecture) to predict steering angles from front-camera images, enabling a simulated car to drive itself around a track.
 

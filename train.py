@@ -19,7 +19,7 @@ from tensorflow.keras.callbacks import ModelCheckpoint
 columns = ['center', 'left', 'right', 'steering', 'throttle', 'brake', 'speed']
 df = pd.read_csv('driving_log.csv', names=columns)
 
-# Fix absolute paths from simulator → use just the filename inside local IMG/
+# Fix absolute paths from simulator → use just the filename inside local IMG
 def fix_path(p):
     return os.path.join('IMG', os.path.basename(str(p).strip()))
 
